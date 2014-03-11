@@ -1,7 +1,7 @@
-本书翻译自sams的 Advanced PHP Programming的最后介绍PHP扩展和sapi的部分，也即是第五部分的扩展部分
+本书翻译自sams的高级PHP编程(Advanced PHP Programming)的最后介绍PHP扩展和sapi的部分，也即是第五部分的扩展部分
 包括以下章节内容：
 
-1、php和zend引擎
+1、php和zend引擎内部机制
 
 2、扩展php：第一部分
 
